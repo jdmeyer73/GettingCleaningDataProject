@@ -1,6 +1,6 @@
 # run_analysis.R CodeBook
 
-The run_analysis.R script file loads, combines, and cleans messy data sets into a tidy one that can be used for analysis.
+The run_analysis.R script file loads, combines, and cleans messy data sets into a tidy one that can be used for analysis and outputs the data files.
 
 ### Step 1: Download and load data files
 After downloading the following files from the UCI HAR website, each file is loaded read into R as a dataframe
