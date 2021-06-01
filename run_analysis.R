@@ -65,5 +65,5 @@ dataSummary <- dataAll %>%
       group_by(subject, activity) %>% 
       summarize_all(mean)
 
-## Write data summary file to '.csv' file
-write.csv(dataSummary, file="dataSummary.csv")
+## Write data summary file to '.txt' file
+write.table(dataSummary, file="dataSummary.txt", row.name = FALSE)
