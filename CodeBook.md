@@ -41,4 +41,4 @@ Using the updated **features** data frame from Step 2, this step keeps only thos
 This step first merges the three data frames each for the train data (**subject_train**, **y_train**, and **X_train**) and the test data (**subject_test**, **y_test**, and **X_test**) by binding columns. Then, the train data and test data are combined into a single tidy data frame, **dataAll** and written to a '.csv' file: dataAll.csv
 
 ### Step 6: Create summary data frame
-This step uses the **dataAll* data frame to summarize (with mean) all the data by subject and activity. This tidy data frame, **dataSummary** is then written to a '.csv' file: dataSummary.csv
+This step uses the **dataAll* data frame to summarize (with mean) all the data by subject and activity. This tidy data frame, **dataSummary** is then written to a '.txt' file: dataSummary.txt
