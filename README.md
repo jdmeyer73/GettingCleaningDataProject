@@ -10,4 +10,4 @@ Files:
 
 + README.md: The current document describing the repository.
 + CodeBook.md: Describes the variables, data, and work performed to clean up the data.
-+ run_analysis.R: An R script that will complete the required steps in project requirements. Briefly, this script loads the data sets, merges them while selecting only the necessary variables, provides descriptive variable names, and writes the result to a .csv file. Then, the script summarizes the data by subject and activity and writes the result to a .csv file.
++ run_analysis.R: An R script that will complete the required steps in project requirements. Briefly, this script loads the data sets, merges them while selecting only the necessary variables, provides descriptive variable names, and writes the result to a .csv file. Then, the script summarizes the data by subject and activity and writes the result to a .txt file.
