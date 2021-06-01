@@ -1,6 +1,6 @@
 # Getting and Cleaning Data Project
 
-This repository is for the Courera Getting and Cleaning Data course project.  In this project, the goal is to load, combine, and clean messy data sets into a tidy one that can be used for analysis.
+This repository is for the Courera Getting and Cleaning Data course project.  In this project, the goal is to load, combine, and clean messy data sets into a tidy one that can be used for analysis, and output the files.
 
 
 Data: The data come from experiments completed using a smartphone's accelermoeter and gyroscope. The goal of the experiments was to predict human activity based on the the data.  The data a further described in the CodeBook.md file.
